@@ -3,7 +3,7 @@ The purpose of this repository is to visualize the work of Jesús Crespo Cuaresm
 The goal of the paper is to use satellite imagery and nightlights data to predict poverty levels at a local level in North Korea. 
 
 ## Introduction
-Obtaining any quantitative information on the North Korean economy is notoriously difficult. However, the availability of satellite data on night-time light emissions and other observable terrain characteristics has opened new possibilities in terms of understanding and visualizing socioeconomic developments in North Korea. The analysis uses night-time light emission data from 2004 to 2013 to estimate income and poverty in North Korea at the subnational level. 
+Obtaining any quantitative information on the North Korean economy is notoriously difficult. However, the availability of satellite data on night-time light emissions and other observable terrain characteristics has opened new possibilities in terms of understanding and visualizing socioeconomic developments in North Korea. The analysis uses night-time light emission data from 2004 to 2013 to estimate economic development and regional disparities of North Korea.
 
 
 
