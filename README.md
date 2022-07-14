@@ -24,6 +24,9 @@ The Figure 1. illustrates growing differences in nighttime lights between the ca
 In North Korea, Pyongyang has priviliges over other areas. Only those who showed loyalty to the regime are allowed to live in Pyongyang. The citizens of Pyongyang are given priority in food, electricity, and other necessary items. In response to the strengthening of sanctions against North Korea from 1992 to 2013, the North Korean regime concentrated limited resources to key regions to maximize the political interests of the regime (김다울, 2021). *Lee, Yong Suk(2018)* found that the difference in nighttime lights between the capital Pyongyang and the rest of the country increases by 1.9% with every additional sanction. 
 The Figure 1. further corroborates a claim that the regime is diverting resources and electricity to Pyongyang when sanctions increase resulting in limited resources. 
 
+![Night light of North Korea 2004-2013](https://user-images.githubusercontent.com/93341531/179023937-2f8140a9-fb4f-45b7-9808-acdb857211d0.jpeg)
+
+
 ### Inference2_Decreasing economic growth due to increased sanctions
 The Figure 1. also shows increased nighttime lights in border villages like Sinuiju and Hyesan-si; however, this does not necessarily mean that the border villages have experienced economic developments. The satellite nighttime lights data tends to spreads to the surrounding areas. Therefore, increased aagr of night light in border villages represents increased socioeconomic development of Chinese villages not North Korean villages. Figure 2. more clearly illustrates that increased aagr of night light in border is primarily due to the increased luminosity in China.
 
