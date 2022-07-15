@@ -15,27 +15,23 @@ These are sources where I got the data from:
   (Night light observations as seen from space for all over the world. Spans the years 2004 until including 2013. One .tif file per year.)
   
 ## Reproduction Results
-![Rplot](https://user-images.githubusercontent.com/93341531/178819201-e5c7a088-bcd0-4cc8-a91b-cd23448e86d6.jpeg)
 
-The Figure 1. presents a visualization of average annual growth rate (aagr) of night light in North Korea by region for the period 2004–2018. 
+![Night light of North Korea 2004-2013](https://user-images.githubusercontent.com/93341531/179265707-3bd3b7a1-3399-4c36-baf4-1332a9cafd9f.jpeg)
+**Figure 1. Visualization of night light development in North Korea for the period
+2004–2018**
 
-### Inference1_A growing economic gap between Pyongyang and other areas
-The Figure 1. illustrates growing differences in nighttime lights between the capital Pyongyang and the rest of the country. 
-In North Korea, Pyongyang has priviliges over other areas. Only those who showed loyalty to the regime are allowed to live in Pyongyang. The citizens of Pyongyang are given priority in food, electricity, and other necessary items. In response to the strengthening of sanctions against North Korea from 1992 to 2013, the North Korean regime concentrated limited resources to key regions to maximize the political interests of the regime (김다울, 2021). *Lee, Yong Suk(2018)* found that the difference in nighttime lights between the capital Pyongyang and the rest of the country increases by 1.9% with every additional sanction. 
-The Figure 1. further corroborates a claim that the regime is diverting resources and electricity to Pyongyang when sanctions increase resulting in limited resources. 
+![figure2](https://user-images.githubusercontent.com/93341531/179265855-6c1fdbef-472c-4498-b64f-74557f983a3d.jpeg)
 
-![Night light of North Korea 2004-2013](https://user-images.githubusercontent.com/93341531/179023937-2f8140a9-fb4f-45b7-9808-acdb857211d0.jpeg)
+### A growing economic gap between Pyongyang and non-Pyongyang areas
+*Figure 1.* illustrates the development of the night lights in North Korea from 2004 to 2013, and *Figure 2.* presents the histogram of luminosity distribution in North Korea for 2013. In both figures, the dynamics of luminosity present highly skewed night-time light developments throughout the country. Unlike the villages of China and South Korea, the night-time light intensity in North Korea had significant increase only in Pyongyang.
+Moreover, the scope of increased radiance intensity is limited, which corroborates the assumption that the North Korean regime is diverting resources and electricity to Pyongyang as sanctions increase, thus further widening economic disparities between Pyongyang and non-Pyongyang areas.
 
+![figure3](https://user-images.githubusercontent.com/93341531/179266365-e4e79960-edc1-48e6-ba6b-ea1a53ee6029.jpeg)
 
-### Inference2_Decreasing economic growth due to increased sanctions
-The Figure 1. also shows increased nighttime lights in border villages like Sinuiju and Hyesan-si; however, this does not necessarily mean that the border villages have experienced economic developments. The satellite nighttime lights data tends to spreads to the surrounding areas. Therefore, increased aagr of night light in border villages represents increased socioeconomic development of Chinese villages not North Korean villages. Figure 2. more clearly illustrates that increased aagr of night light in border is primarily due to the increased luminosity in China.
+### Decreasing economic growth due to increased sanctions
+*Figure 3.* presents a visualization of the average annual growth rate (AAGR) of night light in North Korea by region for the period 2004–2018. According to *Figure 3.* radiance intensity especially increased in border villages like Sinuiju and Hyesan-si; however, this does not necessarily mean that the border villages have experienced economic developments. The satellite nighttime light data tends to spread to the surrounding areas. Therefore, the high AAGR of night light in border villages is likely to represent increased socioeconomic development of Chinese villages not North Korean villages (김규철, 2021). 
 
-![norht korea light in 2015](https://user-images.githubusercontent.com/93341531/178825017-3f70a87c-f1b9-462f-8728-885f40aaae25.jpg)
-
-**Fig 2. North Korea: average yearly night-time luminosity. Sources: Earth Observation Group, NOAA/NCEI, 2015 VIIRS DNB yearly product. Mask DLRWorld
-Settlement Footprint 2015. Base map: GADM.**
-
-The fact that Sinuiju(a border village between North Korea-China) is the village that experienced the greatest increase of night light in North Korea implies that socioeconomic development of North Korea has been sluggish from 2004-2013. *김다울(2021)* wrote that socioeconomic gaps between Pyongyang and non-Pyongyang areas, border and non-border, urban and rural have narrowed. However this does not imply improved economic level of low-income regions but rather as a result of fast decline in the economic level of high-income regions in North Korea. 
+The fact that Sinuiju(a border village between North Korea-China) is the village that experienced the greatest increase in night light intensity in North Korea implies that the socioeconomic development of North Korea, even including Pyongyang, has been slower than that of a border village of China. Unlike the hypothesis, the analysis failed to find significant increases in the light radiance of manufacturing or mining regions of North Korea. 김다울 (2021). wrote that socioeconomic gaps between urban and rural have narrowed. As a result of a fast decline in the economic level of high-income regions in North Korea, economic disparities between manufacturing and non-manufacturing regions have decreased. Therefore, manufacturing regions could not have experienced much increase in economic activity compared to other regions of the country.
 
 
 ## Citation
